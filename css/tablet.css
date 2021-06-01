@@ -1,0 +1,26 @@
+@media only screen and (max-width: 959px) {
+
+
+    .img-head-size {
+        width: 70vw;
+    }
+
+    .conteudo {
+
+        font-size: 32px;
+
+
+    }
+
+    .flex-1 {
+        flex: 1;
+        min-width: 45%;
+    }
+
+    .max-width {
+        padding: 0;
+    }
+
+
+
+}
